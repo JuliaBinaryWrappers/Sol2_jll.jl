@@ -1,0 +1,6 @@
+[Sol2]
+git-tree-sha1 = "1f4cd6074f459e5175833fafe98e12368aa14ba1"
+
+    [[Sol2.download]]
+    sha256 = "78affa9ceb98b00fb6bda42f5735c22975ca47c8cc8d456ee8b07ae6f12bc445"
+    url = "https://github.com/JuliaBinaryWrappers/Sol2_jll.jl/releases/download/Sol2-v3.3.1+0/Sol2.v3.3.1.any.tar.gz"
