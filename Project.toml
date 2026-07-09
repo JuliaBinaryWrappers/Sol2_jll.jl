@@ -1,6 +1,6 @@
 name = "Sol2_jll"
 uuid = "40efcd7b-2ea1-5554-a9c9-7d951e8b629a"
-version = "3.3.1+0"
+version = "3.3.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
